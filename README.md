@@ -1,1 +1,1 @@
-# Monster_Hunter_Bot
+# Discord Bot Practice
