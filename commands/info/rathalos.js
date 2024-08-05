@@ -3,8 +3,8 @@ const { SlashCommandBuilder } = require('discord.js');
 module.exports = {
     data: new SlashCommandBuilder()
         .setName('rathalos')
-        .setDescription('Provides information about the monster Rathalos'),
+        .setDescription('Provides information about High Rathalos'),
     async execute(interaction) {
-        await interaction.reply('This is placeholder information for the monster Rathalos');
+        await interaction.reply('This is placeholder information for the High Rank Rathalos');
     },
 };
